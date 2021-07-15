@@ -1,0 +1,2 @@
+The is a project to deconstruct and then rebuild the google.com homepage.
+The purpose is to gain experience with using devtools and start to understand how webpages are actually built with HTML and CSS
