@@ -4,3 +4,12 @@
     width: auto;
     text-align: center;
 }
+
+#navbar {
+    position: fixed;
+    top: 0px;
+}
+
+#right {
+    text-align: right;
+}
