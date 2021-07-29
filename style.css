@@ -1,15 +1,26 @@
 .center {
     display: block;
-    margin: 0 auto;
+    margin: 200px auto;
     width: auto;
     text-align: center;
 }
 
-#navbar {
+.navbar {
     position: fixed;
-    top: 0px;
+    top: 0;
 }
 
-#right {
-    text-align: right;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
+
+li {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
