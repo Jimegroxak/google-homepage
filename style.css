@@ -1,6 +1,6 @@
 .center {
     display: block;
-    margin: 00px auto;
+    margin: 0px auto;
     width: auto;
     text-align: center;
 }
@@ -17,8 +17,24 @@ li {
     display: block;
 }
 
+a {
+    color: inherit;
+}
+
 .right {
     float: right;
 }
 
+.centerli {
+    margin-left: 32.5%;
+}
+
+.navbar {
+    color: #000000DE
+}
+
+.footbar {
+    position: relative;
+    bottom: -470px;
+}
 
